@@ -1,0 +1,18 @@
+# Your own results and settings stay on your Mac
+data/
+graphs/
+config.json
+
+# Local working notes
+PLAN.md
+HANDOFF.md
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.upgrading
+*.relabel
+
+# macOS
+.DS_Store

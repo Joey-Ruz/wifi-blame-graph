@@ -1,0 +1,14 @@
+{
+  "first_hour": 7,
+  "last_hour": 23,
+  "minutes_between_tests": 10,
+  "data_cap_gb": null,
+  "daily_data_limit_gb": null,
+  "pause_at_percent_of_cap": null,
+  "background_limit_mbps": 5.0,
+  "speedtest_path": null,
+  "plan_download_mbps": null,
+  "plan_upload_mbps": null,
+  "blocked_servers": [],
+  "speed_test_tool": "ookla_then_apple"
+}
